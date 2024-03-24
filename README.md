@@ -10,7 +10,7 @@ I'm a data enthusiast with a passion for uncovering insights from intricate data
 
 📫 **Let's Connect**: I'm all ears for meaningful conversations, collaborations, and opportunities to learn from fellow data enthusiasts. Get in touch with me!
 
-- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/anilbjadhav)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/anilbjadhav)
 - Email: [Drop me an email](mailto:anilbjadhav.in@gmail.com)
 
 Looking forward to connecting with you!
